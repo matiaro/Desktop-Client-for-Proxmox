@@ -1,4 +1,4 @@
-# Proxmox Console
+# Console Desktop Client For Proxmox
 
 A native Windows desktop application to manage **Proxmox VE** servers from a clean, Hyper-V–style interface: browse servers and nodes, manage virtual machines, open the embedded noVNC console, take snapshots, and organize your VMs into projects — all from one window.
 
